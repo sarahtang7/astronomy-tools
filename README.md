@@ -6,4 +6,6 @@ Various astronomy observation tools!
 
 In the Centroid folder is **FindCentroid.py**, which takes in a .fits file (eg: *sampleimage.fits*) and returns the centroid of the object.
 
+In the Magnitude folder is **FindMagnitude.py**, which takes in a .fits file (eg: *sampleimage.fits*) and returns the magnitude of the target object.
+
 Feel free to send me any questions at sarahtang07@gmail.com!
