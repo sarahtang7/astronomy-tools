@@ -8,4 +8,6 @@ In the Centroid folder is **FindCentroid.py**, which takes in a .fits file (eg: 
 
 In the Magnitude folder is **FindMagnitude.py**, which takes in a .fits file (eg: *sampleimage.fits*) and returns the magnitude of the target object.
 
+In the Astrometry folder is **LSPRastrometry.py**, which performs Least Squares Plate Reduction astrometry on a given object. This program returns the RA/DEC of the target object given the RA/DEC and pixel coordinates of comparison stars (*LSPRtestinput1.txt*).
+
 Feel free to send me any questions at sarahtang07@gmail.com!
